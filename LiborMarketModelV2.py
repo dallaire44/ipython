@@ -1,7 +1,7 @@
 '''
 Created on Jan 21, 2016
 
-port of following:
+port of following C code:
 http://www.quantcode.com/modules/mydownloads/singlefile.php?lid=63
 
 
